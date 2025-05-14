@@ -3,3 +3,4 @@
 *.a
 *.o
 *.so
+*.code-workspace
